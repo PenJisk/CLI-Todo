@@ -1,0 +1,14 @@
+C:\Users\a.mirzaee\Desktop\Develop\Personal\TodoList\ToDoListConsole\ToDoListConsole\obj\Debug\net6.0\ToDoListConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\a.mirzaee\Desktop\Develop\Personal\TodoList\ToDoListConsole\ToDoListConsole\obj\Debug\net6.0\ToDoListConsole.AssemblyInfoInputs.cache
+C:\Users\a.mirzaee\Desktop\Develop\Personal\TodoList\ToDoListConsole\ToDoListConsole\obj\Debug\net6.0\ToDoListConsole.AssemblyInfo.cs
+C:\Users\a.mirzaee\Desktop\Develop\Personal\TodoList\ToDoListConsole\ToDoListConsole\obj\Debug\net6.0\ToDoListConsole.csproj.CoreCompileInputs.cache
+C:\Users\a.mirzaee\Desktop\Develop\Personal\TodoList\ToDoListConsole\ToDoListConsole\bin\Debug\net6.0\ToDoListConsole.exe
+C:\Users\a.mirzaee\Desktop\Develop\Personal\TodoList\ToDoListConsole\ToDoListConsole\bin\Debug\net6.0\ToDoListConsole.deps.json
+C:\Users\a.mirzaee\Desktop\Develop\Personal\TodoList\ToDoListConsole\ToDoListConsole\bin\Debug\net6.0\ToDoListConsole.runtimeconfig.json
+C:\Users\a.mirzaee\Desktop\Develop\Personal\TodoList\ToDoListConsole\ToDoListConsole\bin\Debug\net6.0\ToDoListConsole.dll
+C:\Users\a.mirzaee\Desktop\Develop\Personal\TodoList\ToDoListConsole\ToDoListConsole\bin\Debug\net6.0\ToDoListConsole.pdb
+C:\Users\a.mirzaee\Desktop\Develop\Personal\TodoList\ToDoListConsole\ToDoListConsole\obj\Debug\net6.0\ToDoListConsole.dll
+C:\Users\a.mirzaee\Desktop\Develop\Personal\TodoList\ToDoListConsole\ToDoListConsole\obj\Debug\net6.0\refint\ToDoListConsole.dll
+C:\Users\a.mirzaee\Desktop\Develop\Personal\TodoList\ToDoListConsole\ToDoListConsole\obj\Debug\net6.0\ToDoListConsole.pdb
+C:\Users\a.mirzaee\Desktop\Develop\Personal\TodoList\ToDoListConsole\ToDoListConsole\obj\Debug\net6.0\ToDoListConsole.genruntimeconfig.cache
+C:\Users\a.mirzaee\Desktop\Develop\Personal\TodoList\ToDoListConsole\ToDoListConsole\obj\Debug\net6.0\ref\ToDoListConsole.dll
